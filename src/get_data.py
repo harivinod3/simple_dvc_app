@@ -12,7 +12,7 @@ def read_params(config_path):
         config = yaml.safe_load(yaml_file)
     return config
 
-## Extra comment for testing 1
+## Extra comment for testing 1 2
 
 def get_data(config_path):
     config = read_params(config_path)
