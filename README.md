@@ -1,3 +1,5 @@
+This is new MLOPS Project
+
 create env
 
 conda create -n wineq python=3.7 -y
@@ -9,3 +11,4 @@ created a req file
 install the req
 
 pip install -r requirements.txt
+
