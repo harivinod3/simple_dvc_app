@@ -1,0 +1,4 @@
+dvc==2.10.2
+#pip install --force-reinstall -v "fsspec==2022.11.0"
+dvc[gdrive]
+sklearn
